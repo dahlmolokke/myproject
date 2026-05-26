@@ -1,2 +1,2 @@
 # Greeting repo
-running `greeting.py1 will greet the world
+running `greeting.py` will greet the world
